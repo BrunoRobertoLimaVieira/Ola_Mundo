@@ -5,7 +5,7 @@ repositório criado durante uma aula ao vivo!
 Essa linha eu adicionei diretamente no site, **que impressionante!**
 
 ---
-### Testando Markdown
+## Testando Markdown
 ---
 __*Mistura*__ de elementos em uma mesma palavra (negrito e itálico)
 
@@ -26,3 +26,16 @@ Lista de tarefas:(- [ ])
 - [ ] Primeira tarefa
 - [x] Segunda tarefa
 - [ ] Terceira tarefa
+
+---
+
+### Tabela
+
+Num | Nome | Nota
+---|---|---
+1 | Bruno | 9,9
+2 | Murilo | 9
+3 | Gustavo | 8
+
+---
+
